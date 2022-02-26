@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 let handler = async(m, { conn }) => {
     let teks = `
-Kebijakan Privasi, Syarat Ketentuan dan Peraturan R-Txzy Bot
+Kebijakan Privasi, Syarat Ketentuan dan Peraturan BOTYNYAKAMU Bot
 
 Kebijakan Privasi
 1. BOTYNYAKAMU tidak akan merekam data riwayat chat user.
